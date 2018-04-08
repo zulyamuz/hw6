@@ -13,3 +13,4 @@
 * Для выполнения задания были выбраны глаголы "paint" и "draw":
 ![imgp0043](https://github.com/zulyamuz/hw6/blob/master/%D0%BA%D0%B2%D0%B5%D1%88%D0%BD%D1%82%D1%83.jpg) 
 Так, например, с существтельными "line", "picture", "panel" и "portrait" могут употребляться оба глагола, с существительным "conclusion" - только draw, с "landsape" -  только paint.  
+* 
