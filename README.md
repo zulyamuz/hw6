@@ -21,3 +21,4 @@
 ![imgp0043](https://github.com/zulyamuz/hw6/blob/master/%D0%BE%D0%B2%D0%B5%D1%80%D1%81%D0%B8.jpg)
 ![imgp0043](https://github.com/zulyamuz/hw6/blob/master/%D0%BE%D0%B2%D0%B5%D1%80%D1%81%D0%B82.jpg)
 ![imgp0043](https://github.com/zulyamuz/hw6/blob/master/%D0%BE%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B3%D1%83%D0%B3%D0%BB.jpg)
+С 80-х по 90-е частота употребления слова "oversee" скачущая (BNC), в то время как Google Ngram Viewer употребление данного слова в эти годы рвномерно увеличивается. Но начиная с 90-х оба графика сопадают: употребление слова возрастает.
